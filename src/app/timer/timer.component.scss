@@ -1,0 +1,16 @@
+.timer {
+  &__view {
+    width: 400px;
+    height: 50px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+  }
+  &__btn {
+    width: 100px;
+    height: 50px;
+    background-color: aqua;
+    font-size: 30px;
+    font-weight: 700;
+  }
+}
